@@ -36,7 +36,6 @@ const HomePage = () => {
 </section>
 
 
-
     </div>
   )
 }
