@@ -1,4 +1,4 @@
-# 🤖 EIDA – AI Tutor for Kids  
+# 🤖 EIDA – Gamified Learning Platform
 
 EIDA (*Enhanced Intelligent Digital Assistant*) is an **AI-powered gamified learning platform** designed to make education engaging and fun for children.  
 It combines **React, TailwindCSS, TypeScript, and MongoDB** to deliver interactive learning experiences through quizzes, games, and personalized tutoring.  
